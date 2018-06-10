@@ -1,0 +1,14 @@
+{
+  "name": "bitbucket-snippet",
+  "version": "0.0.1",
+  "description": "a command-line tool for creating bitbucket snippets",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "mamund",
+  "license": "Apache-2.0",
+  "bin" : {
+    "snippet" : "index.js"
+  }
+}
