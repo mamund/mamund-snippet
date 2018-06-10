@@ -4,7 +4,7 @@
   "description": "a command-line tool for creating bitbucket snippets",
   "main": "index.js",
   "scripts": {
-    "test": ""
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "mamund",
   "license": "Apache-2.0",
