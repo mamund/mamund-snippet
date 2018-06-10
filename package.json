@@ -8,7 +8,10 @@
   },
   "author": "mamund",
   "license": "Apache-2.0",
-  "bin" : {
-    "snippet" : "index.js"
+  "bin": {
+    "snippet": "index.js"
+  },
+  "dependencies": {
+    "commander": "^2.15.1"
   }
 }
