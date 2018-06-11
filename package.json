@@ -1,6 +1,6 @@
 {
   "name": "mamund-snippet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a command-line tool for creating bitbucket snippets",
   "main": "index.js",
   "scripts": {
