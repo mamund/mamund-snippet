@@ -1,21 +1,21 @@
 {
   "name": "mamund-snippet",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a command-line tool for creating bitbucket snippets",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords" : [
+  "keywords": [
     "mamund",
     "amundsen",
     "bitbucket",
     "snippet",
     "atlassian"
   ],
-  "repository" : {
-    "type" : "git",
-    "url" : "git@github.com:mamund/mamund-snippet.git"
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mamund/mamund-snippet.git"
   },
   "author": "mamund",
   "license": "Apache-2.0",
